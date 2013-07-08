@@ -2,6 +2,8 @@
 ddr-lint
 ========
 
+DDR is a set of tools for constructing a distributed repository suitable for the archival preservation of media files and metadata.  It is built from standard open-source components, uses archival standard metadata formats, and provides for replication of collections under low- or no-bandwidth conditions.
+
 **ddr-lint** is a helper tool used in conjunction with the other tools in the Densho Digital Repository.   **ddr-lint** examines DDR collections and emits information about bugs and policy violations.
 
 
