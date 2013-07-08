@@ -1,9 +1,0 @@
-# dependencies for local dev environment
-
-# include base
--r _base.txt
-
-bpython                         # MIT
-coverage                        # BSD
-nose                            # LGPL
-sphinx                          # BSD
